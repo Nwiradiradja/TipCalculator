@@ -1,2 +1,9 @@
 # TipCalculator
-Created a TipCalculator app in Android Studio. Designed the UI and integrated the computations and algorithms all within android studio using Java  and XML
+
+## Tools Used
+* Android Studio
+
+## Topics Covered
+* Android App Development
+* Android UI Design using XML
+* Integrating Java into app functionality
